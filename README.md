@@ -4,6 +4,10 @@
 
 This extension pack for Visual Studio Code adds extensions that are useful for HUGO projects. I reserve the right to update the extensions pack contents up to my own discretion. This extension is for my personal use, I think it's great if it works for other people too.
 
+![HUGO](https://raw.githubusercontent.com/Gydunhn/HUGO-Essentials/refs/heads/main/img/hugo_croped.png)
+
+* [Descarga la imagen completa aca](https://github.com/Gydunhn/HUGO-Essentials/blob/main/img/hugo_full.png).
+
 ## Reasons
 
 The **HUGO Essentials extension pack** was made to automate and standardize the installation phase of the essential HUGO extensions for Visual Studio Code every time a new member joins the team, or one of them restores a laptop, or exchanges it for a new one.
