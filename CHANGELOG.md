@@ -14,5 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Initial release.
   * Created extension pack.
 
-[Unreleased]: https://github.com/Gydunhn/Python-Essentials/tree/develop
-[1.0.0]: https://github.com/Gydunhn/Python-Essentials/releases/tag/1.0.0
+[Unreleased]: https://github.com/Gydunhn/Hugo-Essentials/tree/develop
+[1.0.0]: https://github.com/Gydunhn/Hugo-Essentials/releases/tag/1.0.0
